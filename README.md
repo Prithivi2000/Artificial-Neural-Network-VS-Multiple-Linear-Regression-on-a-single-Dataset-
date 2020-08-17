@@ -1,0 +1,2 @@
+# Artificial-Neural-Network-VS-Multiple-Linear-Regression-on-a-single-Dataset-
+Over a single Dataset, Artificial Neural Network and Multiple Linear Regression are applied, and both the models are evaluated with the R-square Method. The Artificial Neural Network emerges as the winner with an accuracy of approx 71% and Multiple Linear Regression loses with giving an accuracy of approx 54.64%. As, The Neural Networks mimics almost a human brain, it will always have grater advantage over Multiple Linear Regression.
